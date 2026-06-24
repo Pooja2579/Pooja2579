@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/pooja84413" target="blank"><img src="https://img.shields.io/twitter/follow/pooja84413?logo=twitter&style=for-the-badge" alt="pooja84413" /></a> </p>
 
-- 🌱 I’m currently working as a **Python Developer**
+- 🌱 I’m currently working as a **Full Stack Developer**
 
-- 💬 Ask me about **Python, Django, React, JavaScript, HTML, CSS**
+- 💬 Ask me about **Python, Django, Flask, React, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **pooja84413@gmail.com**
 
